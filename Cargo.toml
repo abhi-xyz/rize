@@ -1,6 +1,6 @@
 [package]
 name = "rize"
-version = "0.1.01"
+version = "0.1.10"
 edition = "2021"
 description = "rize"
 license = "MIT"
